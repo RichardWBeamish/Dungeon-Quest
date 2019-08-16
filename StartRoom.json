@@ -1,0 +1,20 @@
+{
+    "rand": {},
+    "Number": 1,
+    "Exit": 0,
+    "Enter": 2,
+    "Monster": {
+        "Type": "Humanoid",
+        "Rand": {},
+        "Name": "Gailik",
+        "HP": 150,
+        "AC": 18,
+        "ToHit": 10,
+        "DiceQuantity": 5,
+        "DiceType": 10,
+        "Dice": [4, 6, 8, 10, 12, 20]
+    },
+    "Height": 100,
+    "Diameter": 100,
+    "Reward": null
+}

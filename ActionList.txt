@@ -1,0 +1,18 @@
+quit
+stats,statistics,information
+inspect,look,examin,investigate
+search,check
+enter
+leave,exit,return
+fight,attack,murder,slay
+run,flee,retreat
+jump,leap
+climb
+sneak,stealth,tip-toe
+hide
+eat,drink
+throw,toss
+aproach,toward,over to
+speak,communicate
+read
+write

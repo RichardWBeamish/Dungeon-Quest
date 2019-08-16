@@ -1,0 +1,6 @@
+ROOMS:,room,cave,dungeon,area,surroundings
+MONSTERS:,monster,beast,enemy
+PACK:,pack,bag,sack,inventory,equipment
+INVENTORY:
+REWARD:,treasure,reward,loot,bounty
+PUZZLE:

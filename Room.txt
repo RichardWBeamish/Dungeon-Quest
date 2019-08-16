@@ -1,0 +1,5 @@
+Number:0
+Enter:1
+Environment:100:100
+Monster:Gailik:Humanoid:150:18:10:5:10
+Reward:torch:rope

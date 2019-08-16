@@ -1,0 +1,11 @@
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/bin/Debug/netcoreapp2.2/DungeonQuest.deps.json
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/bin/Debug/netcoreapp2.2/DungeonQuest.runtimeconfig.json
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/bin/Debug/netcoreapp2.2/DungeonQuest.runtimeconfig.dev.json
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/bin/Debug/netcoreapp2.2/DungeonQuest.dll
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/bin/Debug/netcoreapp2.2/DungeonQuest.pdb
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/obj/Debug/netcoreapp2.2/DungeonQuest.csprojAssemblyReference.cache
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/obj/Debug/netcoreapp2.2/DungeonQuest.csproj.CoreCompileInputs.cache
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/obj/Debug/netcoreapp2.2/DungeonQuest.AssemblyInfoInputs.cache
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/obj/Debug/netcoreapp2.2/DungeonQuest.AssemblyInfo.cs
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/obj/Debug/netcoreapp2.2/DungeonQuest.dll
+/Users/richardbeamish/Desktop/dungeonquest/src/DungeonQuest/obj/Debug/netcoreapp2.2/DungeonQuest.pdb

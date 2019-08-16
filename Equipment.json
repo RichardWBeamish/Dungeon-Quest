@@ -1,0 +1,65 @@
+[{
+    "Rand": {},
+    "Name": null,
+    "Type": "sword",
+    "ToHit": 5,
+    "DiceQuantity": 2,
+    "DiceType": 8,
+    "Range": 5
+}, {
+    "Rand": {},
+    "Name": null,
+    "Type": "staff",
+    "ToHit": 6,
+    "DiceQuantity": 2,
+    "DiceType": 6,
+    "Range": 5
+}, {
+    "Rand": {},
+    "Name": null,
+    "Type": "bow",
+    "ToHit": 7,
+    "DiceQuantity": 2,
+    "DiceType": 6,
+    "Range": 100
+}, {
+    "Rand": {},
+    "Name": null,
+    "Type": "axe",
+    "ToHit": 3,
+    "DiceQuantity": 3,
+    "DiceType": 10,
+    "Range": 5
+}, {
+    "Rand": {},
+    "Name": null,
+    "Type": "knife",
+    "ToHit": 2,
+    "DiceQuantity": 2,
+    "DiceType": 4,
+    "Range": 5
+}, {
+    "Rand": {},
+    "Name": null,
+    "Type": "dagger",
+    "ToHit": 3,
+    "DiceQuantity": 2,
+    "DiceType": 4,
+    "Range": 5
+}, {
+    "Rand": {},
+    "Name": null,
+    "Type": "hammer",
+    "ToHit": 3,
+    "DiceQuantity": 2,
+    "DiceType": 12,
+    "Range": 5
+}, {
+    "Rand": {},
+    "Name": null,
+    "Type": "whip",
+    "ToHit": 2,
+    "DiceQuantity": 2,
+    "DiceType": 8,
+    "Range": 20
+}]

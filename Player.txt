@@ -1,0 +1,9 @@
+CurrentRoom:0
+Name:NA
+HP:20
+AC:10
+Level:1
+Weapon:NA
+ToHit:3
+DiceQuantity:2
+DiceType:4

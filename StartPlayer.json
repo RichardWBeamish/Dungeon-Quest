@@ -1,0 +1,13 @@
+{
+    "CurrentRoom": 0,
+    "Name": "NA",
+    "Level": 1,
+    "HP": 20,
+    "AC": 10,
+    "Weapon": {
+        "Name": "NA",
+        "ToHit": 3,
+        "DiceQuantity": 2,
+        "DiceType": 4
+    }
+}
