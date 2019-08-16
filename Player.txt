@@ -1,9 +1,9 @@
-CurrentRoom:0
-Name:NA
+CurrentRoom:1
+Name:Richard
 HP:20
 AC:10
-Level:1
-Weapon:NA
-ToHit:3
+Level:2
+Weapon:Spoon
+ToHit:6
 DiceQuantity:2
 DiceType:4
